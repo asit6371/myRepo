@@ -1,4 +1,4 @@
 # myRepo
 this is my repository
 <br>
-Author: Asit
+Author: Asit Panda
